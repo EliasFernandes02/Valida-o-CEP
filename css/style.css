@@ -12,7 +12,7 @@
     color: var(--primary-color);
   }
   
-  /* Message */
+  /* Mensagem */
   #fade {
     position: fixed;
     top: 0;
@@ -91,12 +91,12 @@
     z-index: -1;
   }
   
-  /* Form header */
+  /* Formulario header */
   #form-header p {
     color: var(--text-color);
   }
   
-  /* Form */
+  /* Formulario */
   #order-form-container {
     max-width: 700px;
   }
@@ -138,7 +138,7 @@
     border-radius: 1.5em;
   }
   
-  /* Responsive */
+  /* Responsividade */
   @media (min-width: 500px) {
     #save-btn {
       width: 8em;
